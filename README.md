@@ -9,3 +9,4 @@ Misskeyのためのカスタム絵文字ライブラリ
 ## 作成に用いているツール - Tools
 
 - [Inkscape](https://inkscape.org/)
+- [shields.io](https://shields.io/)

@@ -10,6 +10,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 ## 作成に用いているツール - Tools
 
 - [Inkscape](https://inkscape.org/)
+- [APNG Assembler](https://apngasm.sourceforge.net/)
 - [shields.io](https://shields.io/)
 - [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)
 
@@ -17,3 +18,4 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 - [IBM 3270](https://github.com/rbanffy/3270font)
 - [IPA Font](https://moji.or.jp/ipafont/)
+- [NTR](https://fonts.google.com/specimen/NTR)

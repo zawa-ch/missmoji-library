@@ -11,6 +11,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 - [Inkscape](https://inkscape.org/)
 - [shields.io](https://shields.io/)
+- [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)
 
 ## 作成に使用しているフォントなどのリソース
 

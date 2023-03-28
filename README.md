@@ -11,3 +11,8 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 - [Inkscape](https://inkscape.org/)
 - [shields.io](https://shields.io/)
+
+## 作成に使用しているフォントなどのリソース
+
+- [IBM 3270](https://github.com/rbanffy/3270font)
+- [IPA Font](https://moji.or.jp/ipafont/)

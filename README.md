@@ -11,6 +11,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 - [Inkscape](https://inkscape.org/)
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
+- [Blender](https://www.blender.org/)
 - [APNG Assembler](https://apngasm.sourceforge.net/)
 - [shields.io](https://shields.io/)
 - [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)

@@ -10,6 +10,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 ## 作成に用いているツール - Tools
 
 - [Inkscape](https://inkscape.org/)
+- [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 - [APNG Assembler](https://apngasm.sourceforge.net/)
 - [shields.io](https://shields.io/)
 - [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)

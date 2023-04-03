@@ -1,5 +1,32 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="92" height="28" role="img" aria-label="Warning: R-15">
-	<title>Warning: R-15</title>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="92" height="28"
+	role="img"
+	aria-label="Warning: R-15"
+	>
+	<title>warning_r15</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+			</cc:License>
+			<cc:Work rdf:about="">
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+				<dc:title>warning_r15</dc:title>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>zawa-ch.</dc:title>
+					</cc:Agent>
+				</dc:creator>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
 	<g shape-rendering="crispEdges" transform="translate(0, 4)">
 		<rect width="55" height="20" fill="#555"/>
 		<rect x="55" width="37" height="20" fill="#dfb317"/>

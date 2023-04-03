@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	width="152"
+	height="40"
+	viewBox="0 0 152 40"
+	version="1.1"
+	inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+	>
+	<sodipodi:namedview
+		pagecolor="#505050"
+		bordercolor="#eeeeee"
+		borderopacity="1"
+		inkscape:showpageshadow="0"
+		inkscape:pageopacity="0"
+		inkscape:pagecheckerboard="0"
+		inkscape:deskcolor="#505050"
+		inkscape:document-units="px"
+		showgrid="false"
+		>
+		<inkscape:grid type="xygrid" originx="0" originy="0" empspacing="8" />
+	</sodipodi:namedview>
+	<g inkscape:groupmode="layer" style="display:none">
+		<text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#ffff00;fill-opacity:1;stroke-linejoin:round" x="4" y="20"><tspan sodipodi:role="line" x="4" y="20">305</tspan></text>
+		<text xml:space="preserve" style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffff00;fill-opacity:1;stroke-linejoin:round" x="4" y="36"><tspan sodipodi:role="line" x="4" y="36">Use Proxy</tspan></text>
+	</g>
+	<g inkscape:groupmode="layer" inkscape:label="Outline">
+		<g aria-label="305" style="font-size:16px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P, Normal';fill:#ffff00;stroke-linejoin:round">
+			<path d="M 6,5 V 4 h 6 6 v 1 1 h -1 -1 v 1 1 h -1 -1 v 1 1 h 1 1 v 1 1 h 1 1 v 2 2 h -1 -1 v 1 1 H 11 6 V 17 16 H 5 4 v -1 -1 h 2 2 v 1 1 h 3 3 V 14 12 H 11 8 v -1 -1 h 1 1 V 9 8 h 1 1 V 7 6 H 9 6 Z" />
+			<path d="M 24,5 V 4 h 3 3 v 1 1 h 1 1 v 1 1 h 1 1 v 3 3 h -1 -1 v 1 1 h -1 -1 v 1 1 H 27 24 V 17 16 H 23 22 V 15 14 H 21 20 V 11 8 h 1 1 V 7 6 h 1 1 z m 4,2 V 6 h -2 -2 v 4 4 h 1 1 v 1 1 h 2 2 V 12 8 h -1 -1 z" />
+			<path d="M 36,7 V 4 h 6 6 v 1 1 h -4 -4 v 1 1 h 4 4 v 1 1 h 1 1 v 3 3 h -1 -1 v 1 1 h -5 -5 v -1 -1 h -1 -1 v -1 -1 h 2 2 v 1 1 h 3 3 v -3 -3 h -5 -5 z" />
+		</g>
+		<g aria-label="Use Proxy" style="font-size:16px;font-family:'Press Start 2P';-inkscape-font-specification:'Press Start 2P, Normal';fill:#ffff00;stroke-linejoin:round">
+			<path d="m 4,26 v -6 h 2 2 v 6 6 h 3 3 v -6 -6 h 2 2 v 6 6 h -1 -1 v 1 1 H 11 6 V 33 32 H 5 4 Z" />
+			<path d="m 22,25 v -1 h 5 5 v 1 1 h -4 -4 v 1 1 h 4 4 v 1 1 h 1 1 v 1 1 h -1 -1 v 1 1 h -6 -6 v -1 -1 h 5 5 v -1 -1 h -4 -4 v -1 -1 h -1 -1 v -1 -1 h 1 1 z" />
+			<path d="m 38,25 v -1 h 5 5 v 1 1 h 1 1 v 2 2 h -5 -5 v 1 1 h 4 4 v 1 1 h -5 -5 v -1 -1 h -1 -1 v -3 -3 h 1 1 z m 8,2 v -1 h -3 -3 v 1 1 h 3 3 z" />
+			<path d="m 68,27 v -7 h 6 6 v 1 1 h 1 1 v 3 3 h -1 -1 v 1 1 h -4 -4 v 2 2 h -2 -2 z m 10,-2 v -3 h -3 -3 v 3 3 h 3 3 z" />
+			<path d="m 86,29 v -5 h 2 2 v 1 1 h 1 1 v -1 -1 h 3 3 v 1 1 h -3 -3 v 1 1 h -1 -1 v 3 3 h -2 -2 z" />
+			<path d="m 102,25 v -1 h 5 5 v 1 1 h 1 1 v 3 3 h -1 -1 v 1 1 h -5 -5 v -1 -1 h -1 -1 v -3 -3 h 1 1 z m 8,4 v -3 h -3 -3 v 3 3 h 3 3 z" />
+			<path d="m 116,26 v -2 h 2 2 v 1 1 h 3 3 v -1 -1 h 2 2 v 2 2 h -2 -2 v 1 1 h 2 2 v 2 2 h -2 -2 v -1 -1 h -3 -3 v 1 1 h -2 -2 v -2 -2 h 2 2 v -1 -1 h -2 -2 z" />
+			<path d="m 132,27 v -3 h 2 2 v 3 3 h 3 3 v -3 -3 h 2 2 v 5 5 h -1 -1 v 1 1 h -5 -5 v -1 -1 h 4 4 v -1 -1 h -4 -4 v -1 -1 h -1 -1 z" />
+		</g>
+	</g>
+</svg>

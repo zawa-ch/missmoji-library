@@ -24,4 +24,5 @@ Misskeyのためのカスタム絵文字ライブラリ
 - [IPA Font](https://moji.or.jp/ipafont/)
 - [NTR](https://fonts.google.com/specimen/NTR)
 - [Press Start 2P](https://github.com/codeman38/PressStart2P)
+- [ロックンロール(RocknRoll)](https://github.com/fontworks-fonts/RocknRoll)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)

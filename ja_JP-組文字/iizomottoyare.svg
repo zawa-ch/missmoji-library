@@ -34,7 +34,7 @@
 		</rdf:RDF>
 	</metadata>
 	<style>
-		typography {
+		.typography {
 			font-family:'ロックンロール One';
 			font-style:normal;
 			font-variant:normal;
@@ -44,7 +44,7 @@
 			text-anchor:start;
 			-inkscape-font-specification:'ロックンロール One, Normal';
 		}
-		fg {
+		.fg {
 			fill:#ea553a;
 			fill-opacity:1;
 			stroke:none;

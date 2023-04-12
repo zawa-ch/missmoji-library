@@ -19,6 +19,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 ## 作成に使用しているフォントなどのリソース
 
+- [デラゴシック(Dela Gothic)](https://github.com/syakuzen/DelaGothic)
 - [源柔ゴシック(Genjyuu Gothic)](http://jikasei.me/font/genjyuu/)
 - [IBM 3270](https://github.com/rbanffy/3270font)
 - [IPA Font](https://moji.or.jp/ipafont/)

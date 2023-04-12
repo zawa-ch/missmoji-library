@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	width="32"
+	height="32"
+	viewBox="0 0 32 32"
+	version="1.1"
+	inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+	aria-label="暴論"
+	>
+	<title>bouron</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+			</cc:License>
+			<cc:Work rdf:about="">
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+				<dc:title>bouron</dc:title>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>zawa-ch.</dc:title>
+					</cc:Agent>
+				</dc:creator>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<style>
+		.typography {
+			font-family:'Dela Gothic One';
+			font-style:normal;
+			font-variant:normal;
+			font-weight:normal;
+			font-stretch:normal;
+			line-height:1.05;
+			text-anchor:start;
+			-inkscape-font-specification:'Dela Gothic One, Normal';
+		}
+		.fg {
+			fill:#ea553a;
+			fill-opacity:1;
+			stroke:none;
+		}
+	</style>
+	<sodipodi:namedview
+		pagecolor="#505050"
+		bordercolor="#eeeeee"
+		borderopacity="1"
+		inkscape:showpageshadow="0"
+		inkscape:pageopacity="0"
+		inkscape:pagecheckerboard="0"
+		inkscape:deskcolor="#505050"
+		inkscape:document-units="px"
+		showgrid="false"
+		>
+		<inkscape:grid type="xygrid" empspacing="8" />
+		<sodipodi:guide position="0,32" orientation="0,32" />
+		<sodipodi:guide position="32,32" orientation="32,0" />
+		<sodipodi:guide position="32,0" orientation="0,-32" />
+		<sodipodi:guide position="0,0" orientation="-32,0" />
+	</sodipodi:namedview>
+	<g inkscape:groupmode="layer" style="display:none">
+		<text xml:space="preserve" x="-0.040557697" y="31.513306" class="typography fg" style="font-size:40.5577px" ><tspan sodipodi:role="line" x="-0.040557697" y="31.513306" class="typography fg" style="font-size:40.5577px">暴論</tspan></text>
+	</g>
+	<g inkscape:groupmode="layer" inkscape:label="Outline">
+		<g aria-label="暴論" class="typography fg" transform="scale(0.38982182,1)" >
+			<path d="m 29.728795,23.766785 q 4.015212,1.784539 9.652733,2.920154 -1.906212,1.500635 -4.258559,5.313059 -5.718636,-1.622308 -10.707233,-4.299116 v 0.567808 q 0,1.622308 -0.770596,2.392904 -0.770597,0.730039 -2.757924,0.973385 -1.94677,0.283904 -6.124213,0.283904 Q 13.992407,29.85044 13.019022,28.674267 9.5310598,30.823825 5.3941743,31.999998 3.0418276,28.187574 1.1356156,26.686939 6.6920207,25.551324 10.707233,23.807342 L 9.3282713,23.158419 Q 6.3675591,24.37515 1.906212,25.875785 1.216731,22.955631 0,20.765515 2.1090005,20.522169 4.0152124,20.116592 5.9214244,19.670457 8.1520979,18.899861 h -7.05704 v -3.36629 h 8.8821366 v -0.68948 h -8.273771 v -2.960713 h 8.273771 V 11.193897 H 2.311789 V 1.4194914 h 36.3397 v 9.7744056 h -8.152098 v 0.689481 h 8.273771 v 2.960713 h -8.273771 v 0.68948 h 8.882137 v 3.36629 h -7.016483 q 2.271232,0.811154 4.177444,1.216731 1.946769,0.365019 4.015212,0.446134 -1.338404,2.514578 -1.906212,5.313059 -3.893539,-1.257289 -7.503175,-2.757923 z M 28.147045,5.1507999 V 4.461319 H 12.775676 V 5.1507999 Z M 12.775676,7.6248197 V 8.3143006 H 28.147045 V 7.6248197 Z m 9.774406,3.5690773 h -4.623578 v 0.689481 h 4.623578 z m 0,3.650194 h -4.623578 v 0.68948 h 4.623578 z m -5.069713,4.05577 -0.892269,0.608365 h 7.462617 l -0.973385,-0.608365 z m 6.935367,0.851711 v 1.784539 l 1.743981,-0.811154 z m -8.679348,0.283904 q -1.013942,0.608366 -1.338404,0.770597 l 1.338404,0.608365 z m 10.05831,2.879597 -1.378962,-0.730039 v 2.392905 z m -11.11281,-0.04056 1.0545,1.338404 v -1.906211 z m 0.08111,5.313059 q 0.648923,0 0.811154,-0.121673 0.162231,-0.162231 0.162231,-0.689481 v -0.486692 q -0.851712,0.608365 -1.865654,1.257288 z" />
+			<path d="m 71.381554,1.8656262 q 2.47402,0.7300386 5.029155,1.1356156 2.555135,0.3650193 5.678078,0.3650193 -1.865654,4.7046933 -1.94677,6.9759249 -0.446134,-0.162231 -0.770596,-0.202789 v 2.433462 H 56.537435 V 10.220513 H 41.652759 V 5.7186078 H 54.225646 L 54.022858,5.0291268 H 42.382798 V 0.97335673 H 55.442377 V 3.5690496 Q 58.281416,3.5284919 60.187628,2.839011 61.647706,2.3523186 62.296629,1.743953 62.98611,1.0950298 63.148341,-2.809906e-5 h 8.760463 Q 71.868246,0.85168362 71.381554,1.8656262 Z m 0.648923,5.7997512 q -2.230673,-0.8517117 -4.339674,-1.9467696 -0.973385,0.6083655 -2.109,1.1761733 -0.648924,0.3650193 -1.703424,0.7705963 z M 42.382798,10.909993 h 13.059579 v 4.177444 H 42.382798 Z M 56.537435,31.269959 V 13.302898 H 79.411979 V 28.26869 q 0,1.58175 -0.446135,2.149558 -0.405577,0.567808 -1.94677,0.730038 -1.500635,0.162231 -5.63752,0.162231 -0.202789,-1.216731 -0.283904,-1.662866 H 68.420842 V 24.74017 h -0.973385 l 0.04056,4.907481 H 63.71615 L 63.67559,24.74017 h -0.973385 v 6.529789 z M 55.442377,19.954361 H 42.382798 v -4.258559 h 13.059579 z m 8.233214,-0.324462 v -1.216731 h -0.973385 v 1.216731 z m 3.771866,-1.216731 v 1.216731 h 0.973385 v -1.216731 z m 4.745251,1.216731 h 0.892269 V 18.413168 H 72.192708 Z M 48.34478,31.756652 H 42.139451 V 20.643842 H 56.010185 V 31.269959 H 48.34478 Z m 1.460077,-5.191386 V 24.74017 H 48.34478 v 1.825096 z m 22.387851,-0.283904 q 0.689481,0 0.811154,-0.121673 0.162231,-0.121673 0.162231,-0.52725 V 24.74017 h -0.973385 z" />
+		</g>
+	</g>
+</svg>

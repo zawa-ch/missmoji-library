@@ -13,6 +13,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 - [Pixelorama](https://github.com/Orama-Interactive/Pixelorama)
 - [Blender](https://www.blender.org/)
 - [APNG Assembler](https://apngasm.sourceforge.net/)
+- [resvg](https://github.com/RazrFalcon/resvg)
 - [shields.io](https://shields.io/)
 - [MEGAMOJI](https://zk-phi.github.io/MEGAMOJI/)
 - [絵文字ジェネレーター](https://emoji-gen.ninja/)

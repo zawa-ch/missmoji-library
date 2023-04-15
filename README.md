@@ -29,3 +29,11 @@ Misskeyのためのカスタム絵文字ライブラリ
 - [ロックンロール(RocknRoll)](https://github.com/fontworks-fonts/RocknRoll)
 - [Rounded Mplus](http://jikasei.me/font/rounded-mplus/)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)
+
+## 導入サーバー
+
+導入が確認できているサーバーは以下のとおりです。
+導入の報告は(当然ながら)必要ありませんが、大歓迎です。
+
+- [じおぷらねたりー](https://geoplanetary.net/) (ほぼすべての絵文字が利用可能)
+- [りんごぱい](https://misskey.04.si/) (HTTP_statusの内容と`:igyo_neon:`、`:shigotogahayasugitemienai:`が利用可能)

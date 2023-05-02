@@ -20,12 +20,14 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 ## 作成に使用しているフォントなどのリソース
 
+- [チョークS(Chalk-S)](http://font.cutegirl.jp/chalk-s.html)
 - [デラゴシック(Dela Gothic)](https://github.com/syakuzen/DelaGothic)
 - [源柔ゴシック(Genjyuu Gothic)](http://jikasei.me/font/genjyuu/)
 - [IBM 3270](https://github.com/rbanffy/3270font)
 - [IPA Font](https://moji.or.jp/ipafont/)
 - [NTR](https://fonts.google.com/specimen/NTR)
 - [Press Start 2P](https://github.com/codeman38/PressStart2P)
+- [レゲエ(Reggae)](https://github.com/fontworks-fonts/Reggae)
 - [ロックンロール(RocknRoll)](https://github.com/fontworks-fonts/RocknRoll)
 - [Rounded Mplus](http://jikasei.me/font/rounded-mplus/)
 - [Source Code Pro](https://github.com/adobe-fonts/source-code-pro)

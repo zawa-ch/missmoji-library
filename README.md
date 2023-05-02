@@ -4,8 +4,13 @@ Misskeyのためのカスタム絵文字ライブラリ
 
 ## ライセンスと免責 - License & Disclaimer
 
-このリポジトリ内の絵文字は特に明示のない限り、[CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)でライセンスされます。
-ただし、このリポジトリで公開されているすべてのコンテンツに対してCC0が適用されることを保証するものではありません。
+このリポジトリ内の絵文字は原則として、以下のライセンスのいずれかが適用されます。
+どのライセンスが適用されるかは、各ファイルを参照してください。
+
+- [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/)
+- [CC BY 4.0 International](https://creativecommons.org/licenses/by/4.0/)
+
+ただし、このリポジトリで公開されているすべてのコンテンツに対して必ず上記のライセンスが適用されることを保証するものではありません。
 
 ## 作成に用いているツール - Tools
 

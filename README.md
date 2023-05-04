@@ -31,6 +31,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 - [IBM 3270](https://github.com/rbanffy/3270font)
 - [IPA Font](https://moji.or.jp/ipafont/)
 - [NTR](https://fonts.google.com/specimen/NTR)
+- [Noto Fonts](https://fonts.google.com/noto)
 - [Press Start 2P](https://github.com/codeman38/PressStart2P)
 - [レゲエ(Reggae)](https://github.com/fontworks-fonts/Reggae)
 - [ロックンロール(RocknRoll)](https://github.com/fontworks-fonts/RocknRoll)

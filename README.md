@@ -30,6 +30,7 @@ Misskeyのためのカスタム絵文字ライブラリ
 - [源柔ゴシック(Genjyuu Gothic)](http://jikasei.me/font/genjyuu/)
 - [IBM 3270](https://github.com/rbanffy/3270font)
 - [IPA Font](https://moji.or.jp/ipafont/)
+- [Mplus Fonts](https://mplusfonts.github.io/)
 - [NTR](https://fonts.google.com/specimen/NTR)
 - [Noto Fonts](https://fonts.google.com/noto)
 - [Press Start 2P](https://github.com/codeman38/PressStart2P)

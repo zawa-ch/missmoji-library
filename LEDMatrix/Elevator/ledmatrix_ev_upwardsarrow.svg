@@ -64,6 +64,12 @@
 		showguides="false"
 		>
 		<inkscape:grid units="px" originx="4" originy="4" spacingx="1" spacingy="1" empspacing="8" dotted="false" />
+		<inkscape:page x="0" y="0" width="48" height="64" margin="0" bleed="0" />
+		<inkscape:page x="48" y="0" width="48" height="64" margin="0" bleed="0" />
+		<inkscape:page x="96" y="0" width="48" height="64" margin="0" bleed="0" />
+		<inkscape:page x="144" y="0" width="48" height="64" margin="0" bleed="0" />
+		<inkscape:page x="192" y="0" width="48" height="64" margin="0" bleed="0" />
+		<inkscape:page x="240" y="0" width="48" height="64" margin="0" bleed="0" />
 	</sodipodi:namedview>
 	<g id="background" inkscape:groupmode="layer">
 		<rect width="48" height="64" x="0" y="0" rx="0" ry="0" class="bg" />

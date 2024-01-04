@@ -9,6 +9,17 @@ build_svg() {
 	resvg -z "${2:-1}" --dpi 384 "${cdir}/$1" "${buildtmp:?}/${1/%.svg/.png}" || return
 	optipng -quiet "${buildtmp:?}/${1/%.svg/.png}" || return
 }
+build_svg_anim() {
+	echo "building $1"
+	[ -d "${buildtmp:?}/${1:?}-tmp" ] || mkdir "${buildtmp:?}/${1:?}-tmp" || return
+	for findex in $(seq 1 "${3:?}")
+	do
+		( cd "${buildtmp:?}/${1:?}-tmp" && inkscape -o "f${findex}.png" --export-page="$findex" -d 384 "${cdir}/${2:?}" ) || return
+		optipng -quiet "${buildtmp:?}/${1:?}-tmp/f${findex}.png" || return
+	done
+	apngasm "${buildtmp:?}/${1:?}" "${buildtmp:?}/${1:?}-tmp/f1.png" "${4:?}" "${5:?}" -l"${6:-0}" || return
+	rm -rf "${buildtmp:?}/${1:?}-tmp"
+}
 
 case $1 in
 '' | 'build')
@@ -28,7 +39,9 @@ unwrap build_svg ledmatrix_ev_latincapitalletterb.svg 4
 unwrap build_svg ledmatrix_ev_latincapitalletterg.svg 4
 unwrap build_svg ledmatrix_ev_latincapitalletterr.svg 4
 unwrap build_svg ledmatrix_ev_fullblock.svg 4
+unwrap build_svg_anim ledmatrix_ev_downwardsarrow_a.png ledmatrix_ev_downwardsarrow.svg 6 1 4 0
 unwrap build_svg ledmatrix_ev_downwardsarrow.svg 4
+unwrap build_svg_anim ledmatrix_ev_upwardsarrow_a.png ledmatrix_ev_upwardsarrow.svg 6 1 4 0
 unwrap build_svg ledmatrix_ev_upwardsarrow.svg 4
 ;;
 'clean')

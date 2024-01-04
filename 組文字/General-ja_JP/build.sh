@@ -37,8 +37,8 @@ unwrap build_png nainai.png
 unwrap build_svg seihekinisasaru.svg 4
 unwrap build_gif shigotogahayai.gif
 unwrap build_svg shikei.svg 4
-unwrap build_svg wakaranai.svg 4
-unwrap build_svg wakaru.svg 4
+unwrap build_svg wakaranai.svg 1
+unwrap build_svg wakaru.svg 1
 ;;
 'clean')
 [ -d "${buildtmp:?}" ] && rm -rf "${buildtmp:?}"

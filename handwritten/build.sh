@@ -1,17 +1,10 @@
 #! /bin/bash
 
 cdir=$(cd "$(dirname "$0")" && pwd) || exit
-prjroot="${cdir}"
-export prjroot
-buildtmp="${prjroot:?}/build"
+buildtmp="${cdir}/.build"
 
 subdirs=(
-	"ACEHUD"
-	"barcode-EAN"
-	"handwritten"
-	"HTTP_status"
-	"LEDMatrix"
-	"組文字"
+	"stellar_ch"
 )
 
 unwrap() { "$@" || exit; }

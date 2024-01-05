@@ -1,0 +1,473 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+	xmlns="http://www.w3.org/2000/svg"
+	xmlns:cc="http://creativecommons.org/ns#"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+	xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+	xmlns:svg="http://www.w3.org/2000/svg"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="896"
+	height="128"
+	viewBox="0 0 112 16"
+	version="1.1"
+	inkscape:version="1.3.2 (091e20ef0f, 2023-11-25, custom)"
+	xml:space="preserve"
+	>
+	<title>次はオマエダ</title>
+	<metadata>
+		<rdf:RDF>
+			<cc:License rdf:about="http://creativecommons.org/publicdomain/zero/1.0/">
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+				<cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+			</cc:License>
+			<cc:Work rdf:about="">
+				<cc:license rdf:resource="http://creativecommons.org/publicdomain/zero/1.0/" />
+				<dc:title>次はオマエダ</dc:title>
+				<dc:identifier>ledmatrix_r16_nextomaeda</dc:identifier>
+				<dc:creator>
+					<cc:Agent>
+						<dc:title>zawa-ch.</dc:title>
+					</cc:Agent>
+				</dc:creator>
+			</cc:Work>
+		</rdf:RDF>
+	</metadata>
+	<style>
+		.bg {
+			fill: #1c1c1c;
+			fill-opacity: 1;
+			stroke: none;
+		}
+		.led-off {
+			fill: #838383;
+			fill-opacity: 0.25;
+			stroke: none;
+		}
+		.led-on-green {
+			fill: #95e546;
+			fill-opacity: 1;
+			stroke: none;
+		}
+		.led-on-orange {
+			fill: #e58e46;
+			fill-opacity: 1;
+			stroke: none;
+		}
+	</style>
+	<sodipodi:namedview
+		pagecolor="#505050"
+		bordercolor="#eeeeee"
+		borderopacity="1"
+		inkscape:showpageshadow="0"
+		inkscape:pageopacity="0"
+		inkscape:pagecheckerboard="0"
+		inkscape:deskcolor="#505050"
+		inkscape:document-units="px"
+		showgrid="false"
+		showguides="false"
+		>
+		<inkscape:grid type="xygrid" units="px" originx="0" originy="0" spacingy="1" spacingx="1" empspacing="8" visible="false" />
+		<inkscape:grid type="xygrid" units="px" originx="0" originy="0" spacingx="0.125" spacingy="0.125" empspacing="8" dotted="true" visible="false" />
+	</sodipodi:namedview>
+	<rect x="0" y="0" width="112" height="16" class="bg" inkscape:label="bg" />
+	<g inkscape:groupmode="layer" inkscape:label="fg">
+		<g inkscape:label="led-off">
+			<g id="led-off-col0">
+				<circle cx="0.5" cy="0.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="1.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="2.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="3.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="4.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="5.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="6.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="7.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="8.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="9.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="10.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="11.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="12.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="13.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="14.5" r="0.375" class="led-off" />
+				<circle cx="0.5" cy="15.5" r="0.375" class="led-off" />
+			</g>
+			<use xlink:href="#led-off-col0" transform="translate(1,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(2,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(3,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(4,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(5,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(6,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(7,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(8,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(9,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(10,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(11,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(12,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(13,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(14,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(15,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(16,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(17,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(18,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(19,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(20,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(21,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(22,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(23,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(24,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(25,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(26,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(27,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(28,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(29,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(30,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(31,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(32,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(33,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(34,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(35,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(36,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(37,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(38,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(39,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(40,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(41,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(42,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(43,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(44,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(45,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(46,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(47,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(48,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(49,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(50,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(51,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(52,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(53,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(54,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(55,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(56,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(57,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(58,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(59,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(60,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(61,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(62,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(63,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(64,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(65,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(66,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(67,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(68,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(69,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(70,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(71,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(72,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(73,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(74,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(75,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(76,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(77,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(78,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(79,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(80,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(81,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(82,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(83,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(84,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(85,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(86,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(87,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(88,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(89,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(90,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(91,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(92,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(93,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(94,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(95,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(96,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(97,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(98,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(99,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(100,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(101,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(102,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(103,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(104,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(105,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(106,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(107,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(108,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(109,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(110,0)" />
+			<use xlink:href="#led-off-col0" transform="translate(111,0)" />
+		</g>
+		<g inkscape:label="led-on-green">
+			<g>
+				<circle cx="0.5" cy="1.5" r="0.375" class="led-on-green" />
+				<circle cx="0.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="0.5" cy="15.5" r="0.375" class="led-on-green" />
+				<circle cx="1.5" cy="2.5" r="0.375" class="led-on-green" />
+				<circle cx="1.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="1.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="1.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="2.5" cy="3.5" r="0.375" class="led-on-green" />
+				<circle cx="2.5" cy="8.5" r="0.375" class="led-on-green" />
+				<circle cx="2.5" cy="9.5" r="0.375" class="led-on-green" />
+				<circle cx="2.5" cy="10.5" r="0.375" class="led-on-green" />
+				<circle cx="2.5" cy="15.5" r="0.375" class="led-on-green" />
+				<circle cx="3.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="3.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="3.5" cy="15.5" r="0.375" class="led-on-green" />
+				<circle cx="4.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="5.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="5.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="5.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="6.5" cy="3.5" r="0.375" class="led-on-green" />
+				<circle cx="6.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="6.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="6.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="0.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="1.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="2.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="7.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="8.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="8.5" cy="9.5" r="0.375" class="led-on-green" />
+				<circle cx="8.5" cy="10.5" r="0.375" class="led-on-green" />
+				<circle cx="9.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="9.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="9.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="9.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="9.5" cy="8.5" r="0.375" class="led-on-green" />
+				<circle cx="10.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="10.5" cy="9.5" r="0.375" class="led-on-green" />
+				<circle cx="10.5" cy="10.5" r="0.375" class="led-on-green" />
+				<circle cx="11.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="11.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="11.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="12.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="12.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="12.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="12.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="13.5" cy="3.5" r="0.375" class="led-on-green" />
+				<circle cx="13.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="13.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="13.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="14.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="14.5" cy="15.5" r="0.375" class="led-on-green" />
+			</g>
+			<g>
+				<circle cx="17.5" cy="2.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="8.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="9.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="10.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="17.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="18.5" cy="3.5" r="0.375" class="led-on-green" />
+				<circle cx="18.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="18.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="18.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="18.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="19.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="19.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="21.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="21.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="22.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="22.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="22.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="23.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="23.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="23.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="24.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="24.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="24.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="25.5" cy="1.5" r="0.375" class="led-on-green" />
+				<circle cx="25.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="25.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="25.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="1.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="2.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="3.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="5.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="6.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="7.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="8.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="9.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="10.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="13.5" r="0.375" class="led-on-green" />
+				<circle cx="26.5" cy="14.5" r="0.375" class="led-on-green" />
+				<circle cx="27.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="27.5" cy="11.5" r="0.375" class="led-on-green" />
+				<circle cx="28.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="28.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="29.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="29.5" cy="12.5" r="0.375" class="led-on-green" />
+				<circle cx="30.5" cy="4.5" r="0.375" class="led-on-green" />
+				<circle cx="30.5" cy="13.5" r="0.375" class="led-on-green" />
+			</g>
+			<g>
+				<circle cx="41.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="41.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="42.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="42.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="43.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="43.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="44.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="44.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="45.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="45.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="45.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="46.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="46.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="46.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="46.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="47.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="47.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="47.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="48.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="48.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="48.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="2.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="49.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="50.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="51.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="52.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="53.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="54.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="54.5" cy="4.5" r="0.375" class="led-on-orange" />
+			</g>
+			<g>
+				<circle cx="56.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="57.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="58.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="59.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="59.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="60.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="60.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="61.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="61.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="62.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="62.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="63.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="63.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="64.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="64.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="64.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="65.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="65.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="65.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="66.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="66.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="67.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="67.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="68.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="68.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="68.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="69.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="69.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="69.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="70.5" cy="4.5" r="0.375" class="led-on-orange" />
+			</g>
+			<g>
+				<circle cx="73.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="74.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="74.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="75.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="75.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="76.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="76.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="77.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="77.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="78.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="78.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="79.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="80.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="80.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="81.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="81.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="82.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="82.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="83.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="83.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="84.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="84.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="84.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="85.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="85.5" cy="13.5" r="0.375" class="led-on-orange" />
+			</g>
+			<g>
+				<circle cx="90.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="90.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="91.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="91.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="92.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="92.5" cy="14.5" r="0.375" class="led-on-orange" />
+				<circle cx="93.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="93.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="93.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="93.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="93.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="94.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="94.5" cy="2.5" r="0.375" class="led-on-orange" />
+				<circle cx="94.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="94.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="94.5" cy="13.5" r="0.375" class="led-on-orange" />
+				<circle cx="95.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="95.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="95.5" cy="12.5" r="0.375" class="led-on-orange" />
+				<circle cx="96.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="96.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="96.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="97.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="97.5" cy="9.5" r="0.375" class="led-on-orange" />
+				<circle cx="97.5" cy="10.5" r="0.375" class="led-on-orange" />
+				<circle cx="98.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="98.5" cy="7.5" r="0.375" class="led-on-orange" />
+				<circle cx="98.5" cy="8.5" r="0.375" class="led-on-orange" />
+				<circle cx="98.5" cy="11.5" r="0.375" class="led-on-orange" />
+				<circle cx="99.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="99.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="99.5" cy="4.5" r="0.375" class="led-on-orange" />
+				<circle cx="99.5" cy="5.5" r="0.375" class="led-on-orange" />
+				<circle cx="99.5" cy="6.5" r="0.375" class="led-on-orange" />
+				<circle cx="100.5" cy="2.5" r="0.375" class="led-on-orange" />
+				<circle cx="100.5" cy="3.5" r="0.375" class="led-on-orange" />
+				<circle cx="101.5" cy="0.5" r="0.375" class="led-on-orange" />
+				<circle cx="102.5" cy="1.5" r="0.375" class="led-on-orange" />
+				<circle cx="102.5" cy="2.5" r="0.375" class="led-on-orange" />
+			</g>
+		</g>
+	</g>
+</svg>

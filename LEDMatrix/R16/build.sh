@@ -14,6 +14,7 @@ case $1 in
 '' | 'build')
 [ -d "${buildtmp:?}" ] || unwrap mkdir "${buildtmp:?}"
 unwrap build_svg ledmatrix_r16_nextis.svg 1
+unwrap build_svg ledmatrix_r16_nextomaeda.svg 1
 ;;
 'clean')
 [ -d "${buildtmp:?}" ] && rm -rf "${buildtmp:?}"
